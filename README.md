@@ -1,5 +1,2 @@
 # make_a_pr
-
--starlord
-divyam
-
+ASHUTOSH TRIPATHI
